@@ -1,0 +1,27 @@
+.news_tag {
+    position: absolute;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 16px;
+    font-family: monospace;
+    background-color: #4c4fa2;
+    margin: 11px 34px;
+}
+
+.news-container {
+    position: relative;
+}
+
+.news_image {
+	margin: 0;
+}
+
+.news_text {
+	margin: 0;
+    position: absolute;
+    bottom: 7px;
+    padding: 0;
+    background-color: #0003;
+    padding: 9px;
+    color: #fff;
+}
