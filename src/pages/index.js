@@ -7,7 +7,7 @@ const IndexPage = () => (
   <Layout>
     <Banner
     	imageURL="http://a3.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1160867_1296x729.jpg&w=920&h=518&scale=crop&cquality=40&location=origin"
-		headline="Shahzad the superstar and Rohit the captain: what we learnt from the Asia Cup"
+		headline="Travas CI test"
     />
   </Layout>
 )
